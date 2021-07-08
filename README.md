@@ -1,7 +1,5 @@
 Discord Mass DM Bot Made By ManicKYS
 
-manic on top!  https://discord.gg/HhQN5QtkTF          MANIC ON TOP BABY
-
 requirements:
 - Python 3.8+
 - Windows 
